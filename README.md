@@ -14,9 +14,9 @@ To use the Mess Registration Reminder System, simply create an account and log i
 Start by cloning the project repository to your local system using the following command:
 
 
-  git clone https://github.com/tarun8334/mess_portal.git
-  npm install
-  npm run start
+  * git clone https://github.com/tarun8334/mess_portal.git
+  * npm install
+  * npm run start
 
 
 ### Technologies Used
